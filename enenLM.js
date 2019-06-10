@@ -1,4 +1,3 @@
-
 /* global api */
 
 class enen_LongMan {
